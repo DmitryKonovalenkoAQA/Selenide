@@ -12,7 +12,7 @@ public class SearchPageTests {
     @Test
     public void loginTestFlow() {
         open("https://www.google.com/");
-        sleep(600220);
+        sleep(6001220);
     }
 
 }
